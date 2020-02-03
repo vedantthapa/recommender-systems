@@ -42,4 +42,4 @@ This will open the Jupyter Notebook software and project file in your browser.
 2. `item_id`: Unique identifier for a movie.
 3. `rating`: Rating given by users.
 4. `timestamp`: Time of the release.
-5. `title`: Title.
+5. `title`: Title of the movie.
